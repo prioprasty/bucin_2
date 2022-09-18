@@ -1,2 +1,2 @@
-# bucin_2
-Hello world
+copy here
+https://prioprasty.github.io/bucin_2/
